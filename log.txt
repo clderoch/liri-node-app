@@ -1,0 +1,92 @@
+
+concert-this fleetwood mac
+
+
+    Venue: Wembley Stadium
+    Location: Wembley, CA
+    Event Date: June 18, 2019
+            
+concert-this greenday
+undefined
+concert-this green day
+undefined
+concert-this lumineers
+
+
+    Venue: Hangout Music Festival
+    Location: Gulf Shores, AL
+    Event Date: May 19, 2019
+            
+concert-this Bruno Mars
+
+
+    Venue: T-Mobile Arena
+    Location: Las Vegas, NV
+    Event Date: December 31, 2018
+            
+spotify-this-song you should see me in a crown
+
+
+    Artist: Billie Eilish
+    Track: you should see me in a crown
+    Preview: null
+    Album: you should see me in a crown
+            
+movie-this inglorius basterds
+
+movie-this inglourious basterds
+
+
+    Title: Inglourious Basterds
+    Released: 2009
+    IMDB Rating: 8.3
+    Rotten Tomatos Rating: 88%
+    Country: Germany, USA
+    Language: English, German, French, Italian
+    Plot: In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+    Actors: Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2bd9f014fec94de895850bafe020839d
+    Album: The Hits--Chapter One
+            
+movie-this
+
+
+    Title: Mr. Nobody
+    Released: 2009
+    IMDB Rating: 7.9
+    Rotten Tomatos Rating: 67%
+    Country: Belgium, Germany, Canada, France, USA, UK
+    Language: English, Mohawk
+    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=2bd9f014fec94de895850bafe020839d
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song with or whithout you
+
+
+    Artist: Doctor 3
+    Track: Medley Song 2: I Would To The My Country ; With Or Whithout You
+    Preview: https://p.scdn.co/mp3-preview/45089bda4b8f3bdd7cad14aed2c26488cc54d156?cid=2bd9f014fec94de895850bafe020839d
+    Album: The Songs Remain The Same
+            
+spotify-this-song where the streets have no name
+
+
+    Artist: U2
+    Track: Where The Streets Have No Name - Remastered
+    Preview: null
+    Album: The Joshua Tree (Super Deluxe)
+            
